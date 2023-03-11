@@ -5,17 +5,12 @@ import { MaxWidthWrapper } from "@/components/Utils/Utils.style";
 export default function Home() {
   return (
     <>
-      {/* <MaxWidthWrapper> */}
-      {/* <Layout> */}
       <Head>
         <title>SAURABH SHUKLA</title>
-        {/* <link rel="icon" href="/portrait_favicon.JPG" /> */}
+
+        <link rel="icon" type="image/png" sizes="32x32" href="/portrait.JPG" />
       </Head>
-      {/* <Navbar /> */}
       <Homepage />
-      {/* <Footer /> */}
-      {/* </Layout> */}
-      {/* </MaxWidthWrapper> */}
     </>
   );
 }
