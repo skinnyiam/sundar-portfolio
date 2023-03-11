@@ -29,16 +29,18 @@ const Projects = () => {
       </Typography>
       <ProjectWrapper>
         <ProjectsWrapper>
-          <ProjectImg src="./demo.png" />
+          <ProjectImg src="./" alt="Moment (in development)" />
           <ProjectSection>
-            <ProjectName>Moments (MERN app)</ProjectName>
+            <ProjectName>Moments (MERN app) (currently working)</ProjectName>
             <ProjectDetail>
               A social media app for capturing moments where user can save their
               loving memories.
             </ProjectDetail>
             <ProjectLink>
-              <ProjectGithub href="/">Github</ProjectGithub>
-              <ProjectDeployment href="/">Website</ProjectDeployment>
+              <ProjectGithub href="https://github.com/skinnyiam/moments">
+                Github
+              </ProjectGithub>
+              {/* <ProjectDeployment href="/">Website</ProjectDeployment> */}
             </ProjectLink>
           </ProjectSection>
         </ProjectsWrapper>
@@ -52,8 +54,12 @@ const Projects = () => {
               to cook favourite meals.
             </ProjectDetail>
             <ProjectLink>
-              <ProjectGithub href="/">Github</ProjectGithub>
-              <ProjectDeployment href="/">Website</ProjectDeployment>
+              <ProjectGithub href="https://github.com/skinnyiam/Recipeas">
+                Github
+              </ProjectGithub>
+              <ProjectDeployment href="https://recipeas-zeta.vercel.app/">
+                Website
+              </ProjectDeployment>
             </ProjectLink>
           </ProjectSection>
         </ProjectsWrapper>
@@ -67,8 +73,12 @@ const Projects = () => {
               assign their task.
             </ProjectDetail>
             <ProjectLink>
-              <ProjectGithub href="/">Github</ProjectGithub>
-              <ProjectDeployment href="/">Website</ProjectDeployment>
+              <ProjectGithub href="https://github.com/skinnyiam/codespace">
+                Github
+              </ProjectGithub>
+              <ProjectDeployment href="https://codespace-xi.vercel.app/">
+                Website
+              </ProjectDeployment>
             </ProjectLink>
           </ProjectSection>
         </ProjectsWrapper>
