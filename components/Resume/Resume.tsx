@@ -18,7 +18,7 @@ const Resume = () => {
         Resume
       </Typography>
       <ResumeWrapper>
-        <ViewButton href="https://drive.google.com/file/d/1M674VU_s7Lg3_OEyXyTh7YRvg5SBZq2g/view?usp=sharing">
+        <ViewButton href="https://drive.google.com/file/d/1SG_xyuSTpDkE8Ewt-BMSWnget4M0poWP/view?usp=sharing">
           View Resume
         </ViewButton>
         <ResumeImg src="/resume.png" />

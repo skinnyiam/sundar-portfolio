@@ -29,15 +29,15 @@ const Projects = () => {
       </Typography>
       <ProjectWrapper>
         <ProjectsWrapper>
-          <ProjectImg src="./" alt="Moment (in development)" />
+          <ProjectImg src="./blogAi.png" alt="Blog.Ai (in development)" />
           <ProjectSection>
-            <ProjectName>Moments (MERN app) (currently working)</ProjectName>
+            <ProjectName>Blog.Ai (NextJs app) (currently working)</ProjectName>
             <ProjectDetail>
-              A social media app for capturing moments where user can save their
-              loving memories.
+              A web app for creating blogs with pictures just by entering the
+              title of blog using ChatGPT .
             </ProjectDetail>
             <ProjectLink>
-              <ProjectGithub href="https://github.com/skinnyiam/moments">
+              <ProjectGithub href="https://github.com/skinnyiam/Blog.Ai">
                 Github
               </ProjectGithub>
               {/* <ProjectDeployment href="/">Website</ProjectDeployment> */}

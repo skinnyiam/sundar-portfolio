@@ -34,7 +34,7 @@ const Experience = () => {
               paddingLeft: "1rem",
             }}
           >
-            Front-end Developer Intern from December 2022 to Current{" "}
+            Front-end Developer Intern from December 2022 to February 2023{" "}
           </span>
         </CompanyName>
         <WorkDone>
